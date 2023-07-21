@@ -1,1 +1,3 @@
 this is file 2 of branch master
+
+this is just a additional line of file2
